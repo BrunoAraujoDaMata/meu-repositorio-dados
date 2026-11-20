@@ -8,7 +8,7 @@ Repositório dedicado às atividades práticas de Ciência de Dados - 24T56.
 - Bruno Araújo da Mata - 20240023188
 
 
-## Links para o conteúdo de cada aula ou unidade
+## Links para o conteúdo de cada aula feita
 
 ### Unidade 2:
 
